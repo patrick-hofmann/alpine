@@ -1,0 +1,1 @@
+import{B as t,v as n,r as o,ah as a,a3 as r}from"./j-i9Q2do.js";const s={class:"component-playground-data-section"},i=t({__name:"ComponentPlaygroundSlots",props:{componentData:{type:Object,required:!0}},setup(e){return(c,p)=>(r(),n("div",s,[o("pre",null,a(JSON.stringify(e.componentData,null,2)),1)]))}});export{i as _};
